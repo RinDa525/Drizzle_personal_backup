@@ -1,0 +1,7 @@
+<resources>
+    <style name="AppTheme"
+        parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <string name="app_name">Parayo</string>
+</resources>
